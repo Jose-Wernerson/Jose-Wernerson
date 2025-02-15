@@ -12,7 +12,7 @@ This place is where I spend most of my routine time coding, studying, and buildi
 
 - Back end
 
-  [![My Skills](https://skillicons.dev/icons?i=html,nodejs,express,docker,postgres,sequelize,tailwind,mongodb)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,docker,postgres,sequelize,tailwind,mongodb)](https://skillicons.dev)
 
 
 <br />
