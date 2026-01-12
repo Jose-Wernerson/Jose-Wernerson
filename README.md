@@ -18,7 +18,7 @@ full stack applications.
 
 <h4>Backend</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,fastify,express,python,postgres,mongodb,redis,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,fastapi,express,python,postgres,mongodb,redis,docker)](https://skillicons.dev)
 
 <h4>Frontend</h4>
 
