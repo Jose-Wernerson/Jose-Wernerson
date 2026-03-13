@@ -46,6 +46,13 @@ Here you will find projects related to <strong>API development</strong>,
 </ul>
 
 ---
+<h3>🔥 Current Focus</h3>
+
+<ul>
+  <li>Building scalable backend APIs with Node.js and TypeScript</li>
+  <li>Automation workflows and system integrations</li>
+  <li>Full stack applications with React and Next.js</li>
+</ul>
 
 <h3>📫 Let's connect</h3>
 
