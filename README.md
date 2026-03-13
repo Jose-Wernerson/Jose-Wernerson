@@ -1,15 +1,15 @@
 <h2><strong>Hello! I'm José Wernerson 👋</strong></h2>
 
 <p>
-I'm a <strong>Full Stack Developer</strong> with a strong focus on <strong>Backend</strong>, 
+I'm a <strong>Full Stack Developer</strong> with a strong focus on <strong>Backend Engineering</strong>, 
 working mainly with <strong>Node.js, TypeScript and Python</strong>.
-I build complete web applications, from backend APIs to frontend interfaces,
+I build complete web applications, from scalable backend APIs to modern frontend interfaces,
 using modern technologies and best practices.
 </p>
 
 <p>
 Here you will find projects related to <strong>API development</strong>, 
-<strong>backend architecture</strong>, <strong>automation</strong> and 
+<strong>backend architecture</strong>, <strong>automation workflows</strong> and 
 <strong>full stack applications</strong>.
 </p>
 
@@ -35,19 +35,38 @@ Here you will find projects related to <strong>API development</strong>,
 
 <ul>
   <li>Full stack web application development</li>
-  <li>REST API development and system integration</li>
+  <li>Scalable REST API development</li>
   <li>Backend architecture and clean code</li>
+  <li>System integrations and API integrations</li>
+  <li>Automation workflows and process automation</li>
   <li>Frontend interfaces with React and Next.js</li>
   <li>Authentication and authorization (JWT)</li>
   <li>SQL and NoSQL databases</li>
+  <li>Caching and queue systems with Redis</li>
   <li>Automations with Python and Selenium</li>
   <li>API documentation (Swagger / OpenAPI)</li>
   <li>Unit testing and code review</li>
-  <li>API integrations and automation workflows</li>
-  <li>Caching and queue systems with Redis</li>
 </ul>
 
 ---
+
+<h3>🏗️ Example Architecture</h3>
+
+<p>
+Typical backend architecture I work with:
+</p>
+
+<ul>
+  <li>Client applications (React / Next.js)</li>
+  <li>API layer built with Node.js / Fastify</li>
+  <li>Authentication using JWT</li>
+  <li>Database layer (PostgreSQL / MongoDB)</li>
+  <li>Caching and queue systems with Redis</li>
+  <li>Automation and integration services</li>
+</ul>
+
+---
+
 <h3>🔥 Current Focus</h3>
 
 <ul>
@@ -55,6 +74,8 @@ Here you will find projects related to <strong>API development</strong>,
   <li>Automation workflows and system integrations</li>
   <li>Full stack applications with React and Next.js</li>
 </ul>
+
+---
 
 <h3>📫 Let's connect</h3>
 
