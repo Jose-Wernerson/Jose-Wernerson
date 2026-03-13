@@ -43,6 +43,8 @@ Here you will find projects related to <strong>API development</strong>,
   <li>Automations with Python and Selenium</li>
   <li>API documentation (Swagger / OpenAPI)</li>
   <li>Unit testing and code review</li>
+  <li>API integrations and automation workflows</li>
+  <li>Caching and queue systems with Redis</li>
 </ul>
 
 ---
